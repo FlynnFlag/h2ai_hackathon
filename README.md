@@ -26,10 +26,11 @@ ChronoCheck is a cutting-edge AI-driven platform designed to empower patients wi
 4. Doctor Recommendation API
 - Objective: To connect patients with specialized healthcare providers based on geographic location and insurance coverage.
 - Integration: Uses reliable APIs to facilitate appointments with the appropriate specialists, ensuring timely and suitable care.
-Technical Specifications
+
+## Technical Specifications
 - Languages and Frameworks: Python for backend processes, ReactJS for the front end, and Node.js for server-side operations.
 - APIs Used: Google Cloud Dialogflow for the chatbot functionality, BetterDoctor API for physician lookup, and custom APIs for secure health data management.
-Data Security: Complies with HIPAA regulations, featuring end-to-end encryption for data at rest and in transit.
+- Data Security: Complies with HIPAA regulations, featuring end-to-end encryption for data at rest and in transit.
 
 ## Clinical Validity and Safety
 - Clinical Advisory: Developed under the guidance of pulmonologists and plans to include other specialists as the platform expands.
