@@ -16,7 +16,7 @@ Integration: Connects with external APIs such as the BetterDoctor API for locati
 
 ## Clinical Validity
 - Assessment Tools: Incorporates the COPD Assessment Test (CAT) to regularly gauge symptom severity and integrates additional diagnostic questions developed in collaboration with pulmonary specialists.
-Clinical Endorsements: Developed under the advisory of a board of respiratory therapists and pulmonologists to ensure clinical accuracy and relevance.
+- Clinical Endorsements: Developed under the advisory of a board of respiratory therapists and pulmonologists to ensure clinical accuracy and relevance.
 - Testing and Validation: Piloted with a control group of COPD patients, demonstrating a significant improvement in patient self-reporting accuracy and adherence to treatment plans.
 
 ## Business Viability
