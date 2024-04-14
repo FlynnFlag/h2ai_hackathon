@@ -53,4 +53,25 @@ ChronoCheck is a cutting-edge AI-driven platform designed to empower patients wi
 ## Conclusion
 ChronoCheck is committed to transforming the management of chronic diseases by making healthcare more accessible and actionable for patients. Through technology-driven insights and personalized support, ChronoCheck helps patients manage their health proactively and effectively.
 
+# Scoring Instruction
+Our assessment is composed of 11 questions, each with a scoring range of 0-5. Eight of the questions are from the COPD Assessment Test (CAT), and the additional three are modified from "Is Chronic Obstructive Pulmonary Disease an Accelerated Aging Disease?" (MacNee, 2017) and "Smoking duration alone provides stronger risk estimates of chronic obstructive pulmonary disease than pack-years" (Bhatt et al., 2018). The brief content of these 11 questions is as follows:
+
+  1. The patient's age
+  2. How many cigarettes per day
+  3. The duration of smoking
+  4. Cough frequency
+  5. Chest mucus condition
+  6. Chest tightness
+  7. High-altitude breathing conditions
+  8. Activities limitation
+  9. Homebound due to pulmonary symptoms
+  10. Sleep soundness
+  11. Energy
+
+Based on the overall score, we have categorized the impact of COPD on the patients' lungs into four levels.
+  - 0 <= score <= 12: Low Impact
+  - 13 <= score <= 27: Moderate Impact
+  - 28 <= score <= 41: High Impact
+  - 42 <= score <= 55: Very High Impact
+
 
